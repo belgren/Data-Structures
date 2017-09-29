@@ -1,2 +1,2 @@
 # Data-Structures
-My portfolio of data structures that I created during a 'Data Structures and Algorithm Analysis' course.
+My portfolio of data structures that I wrote in Java during a 'Data Structures and Algorithm Analysis' course.
