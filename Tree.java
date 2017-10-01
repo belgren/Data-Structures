@@ -274,7 +274,7 @@ public class Tree<T extends Comparable> {
     }
   }
 
-
+//Test method using 'words2.txt' file included 
 public static void main(String[] args) throws FileNotFoundException {
 
     Tree<String> myTree = new Tree();
